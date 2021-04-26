@@ -1,0 +1,25 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prestart": "tsc",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flamingotiger/typechain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flamingotiger/typechain/issues"
+  },
+  "homepage": "https://github.com/flamingotiger/typechain#readme",
+  "dependencies": {
+    "typescript": "^4.2.4"
+  }
+}
